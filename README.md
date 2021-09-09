@@ -1,4 +1,4 @@
 # Online-Shopping-Laravel
 
-# Setup project 
+- Setup project 
 Xampp 7.4 + Composer 
