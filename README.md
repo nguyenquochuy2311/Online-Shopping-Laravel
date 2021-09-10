@@ -1,6 +1,6 @@
 # Online-Shopping-Laravel
 
-- Setup project 
+-- Setup project: 
 Xampp 7.4 + Composer 
-- Run server
+-- Run server
 Open terminal in VS Code: php artisan serve
