@@ -1,6 +1,6 @@
 * text=auto
 *.html linguist-detectable=false
-*.blade linguist-detectable=false
+*.Blade linguist-detectable=false
 *.css linguist-vendored
 *.scss linguist-vendored
 
