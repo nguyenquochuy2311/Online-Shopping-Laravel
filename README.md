@@ -1,6 +1,6 @@
 # Online-Shopping-Laravel
 
-- Setup larvel project by Composer
+- Setup larvel >=5.* project by Composer
 - Install Xampp 7.4
 - Import file '.sql' from folder database
 - Run server:   Open terminal in VS Code: php artisan serve
